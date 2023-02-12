@@ -1,0 +1,4 @@
+com/lingeen/springsource/bean/Person.java
+ com.lingeen.springsource.bean.Person
+com/lingeen/springsource/TestMain.java
+ com.lingeen.springsource.TestMain
